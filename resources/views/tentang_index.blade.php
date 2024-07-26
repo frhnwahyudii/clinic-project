@@ -5,14 +5,16 @@
             <div class="col-md-8">
                 <div class="card">
                     <div class="card-header">
-                        Tentang Saya
+                        About Me
                     </div>
                     <div class="card-body">
-                        <img src="farhan.jpg" alt="" class="justify-content-center" width=300 height=350>
-                        <br>
-                        <br>
-                        Nama Saya Farhan Wahyudi, saya mahasiswa di Universitas Dinamika Bangsa jurusan Sistem Informasi
+                        <center>
+                            <img src="farhan.jpg" alt="" class="justify-content-center" width=300 height=350>
+                        </center>
 
+                        <br>
+                        <br>
+                       Hello everyone, My name is Farhan Wahyudi, Undergraduate student at Faculty of Computer Science, Dinamika Bangsa University, majoring in Information System.
                     </div>
                     <div class="card-footer">
 
